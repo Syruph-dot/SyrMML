@@ -1,0 +1,158 @@
+#Title		夢幻回廊
+#Composer	ZUN
+#Arranger	Nicolas_Wilde
+#Memo		致敬上海爱丽丝幺乐团 (It's not recommended to play this file with SSG rhythm)
+#Option		/v/n/c
+#Tempo		62
+#Zenlen		96
+#Volumedown	F+19,S+21
+ 
+@  1   4   4  =Harp&Piano-L
+  21  10   2   8  15  35   2  12   0   0
+  20  11   4   8  15   0   0   4   0   0
+  21   9   2   8  15  24   2   8   0   0
+  20  10   4   8  15   0   0   4   0   0
+@  2   4   1  =Harp&Piano-H
+  23  10   2   7  15  38   2   4   0   0
+  23  11   4   6  15   0   0   2   0   0
+  24   9   2   6  15  33   2   6   2   0
+  23  10   4   7  15   3   0   2   0   0
+@  3   2   5  =Harpsichord
+  22   8   0   6  15  31   1   6   5   0
+  21   7   0   7  15  22   1   6   7   0
+  20   7   0   4  15  50   1   2   5   0
+  21   7   0   7  15  18   0   4   7   0
+@  4   2   4  =Harpsichord-S
+  19   8   0   6  15  31   1   6   3   0
+  21   7   0   7  15  22   1   0   4   0
+  20   7   0   4  15  46   1   0   5   0
+  20   7   0   7  15  18   0   4   4   0
+@  5   2   7  =Acoustic Piano
+  28   4   0   5   1  47   2   3   0   0
+  28   9   2   6   1  53   2  12   3   0
+  28   4   2   5   1  38   2   3   0   0
+  25   7   0   6   8   0   1   1   7   0
+@  6   4   6  =Organ
+  30  20   0   0   1  31   0   0   7   0
+  30  20   0   6   0   0   0   1   7   0
+  30  20  11   0   0  27   0   0   5   0
+  30  16   0   6   1   0   0   1   5   0
+@  7   0   7  =Ride Cymbal-s
+  20   1   9   8   4   0   3   4   3   0
+  24   1   9   8   4   0   3   4   3   0
+  28   1   9   8   4   0   3   6   3   0
+  28  18  12  15   1   0   3   8   7   0
+@  8   0   7  =Ride Cymbal-l
+  20   1   9   8   4   0   3   4   3   0
+  24   1   9   8   4   0   3   4   3   0
+  28   1   9   8   4   0   3   6   3   0
+  28  18  10  15   3   0   3   8   7   0
+@  9   4   7  =Snare Drum
+  31   0   0   0   0   0   2  15   3   0
+  31  24  15   8   1   0   2   0   7   0
+  31  20   0   0  15   0   2   2   7   0
+  31  11  20   8   1   0   2   0   3   0
+@ 10   4   7  =Tom
+  20  31   0  15  15   0   0   0   4   0
+  31  31   0  15  15   0   0   0   4   0
+  31  15   0  10  15   8   3   0   4   0
+  31  15   0  15  15   0   0   0   4   0
+ 
+!H&P-1a		l4 c+>c+<<b>b <a>a<b>b
+!H&P-1b		l4 eg+d+f+ c+ed+f+ 
+!H&P-2a		l4 c+>c+<<b>>d+ <<a>>e<<b>>f+
+!H&P-2b		l4 eg+d+b c+>c+<d+>d+
+!H&P-3a		l4 c+>c+<<b>b <a>a<g+>g+ <f+>f+<g+>g+ <a>a<b>b
+!H&P-3b		l4 eg+d+f+ c+ecd+ <a+>c+cd+ c+ed+f+
+!Hch-1		l2 @3 o4 g+f+e @4 v+2 f+ v-2 @3 g+f+ef+
+!Hch-2		l2 @3 o4 ed+ c+c <a+>c c+d+
+!H&O		l8 [g+f+16g+16c+2c4 <f+8.>c+8.f+d+2 <e8.>c+8.g+:f+d+ef+ g+!H&O']2<f+4d+4
+!H&O'		l8 d+ef+c+4>c+<b16>c+16
+!Org		o6 c+8!H&O'<!H&O
+!Pn-1		l16 e4.>d+ec+d+<b>c+d+32c+32<f+ed+ >c+<g+f+e%66V121c+d+ c+d+<g+4.>c+2 r1
+!Pn-2a		l8 <c+g+>e>c+d+<bf+d+ c+<bag+V123ed+c+<b >c+2..f+ V120r>c+g+>ef+<f+r16f+<b g+>e<e>c+r4.V123<e16 <a2..r16>d+ g+V120>e>c+g+f+ed+<b g+f+ed+c+<ba>d+
+!Pn-2b		l8 o4 r16e>c+g+>eed+<bf+ ed+c+<bV123g+f+ed+16 g+2..b V120r8.>e>c+g+d+<b16bd+ <e>c+g+<g+V123d+4.d+ c+2..c+ eV120>c+g+>ebg+f+e c+<bag+f+ed+<b
+!Pn-3a		l8 o6 defr16d8.efr defdc+16d32e16.<a16>c+<g [gab]2>c+<a [a+>cd]2 l16 efge
+!Pn-3b		l8 o5 r16aaa8.r16ggg16e16g fff[er16]2ee [d]4[e]4[f]4gg%30
+!Bdn&St-1	l8 g+4>c+4d+4.<g+ >ed+<b>c+<g+2 f+4>c+4<g+2 a4>e4d+<d+ef+ l4 g+>c+d+<g+ l16. >ed+c+16<g+>c+d+16l4c+c <f+>c+<g+2 af+16.g+16.l16>c+d+e<b>c+<g+beg+
+!Bdn&St-2a	o4 V12 d2.V14l16defg l8arargrar rfdrc+4.c+ l2dc+ fe4.<g8 l4a>dea g8.r16ffe l2dc+ fe4.<g8
+!Bdn&St-2b	o3 V11 d2.V13l16defg o4 l8<f>rfrerfr r<a+fre4.e l2gg a+g4.e8 l4faa>f e8.r16ddc+ l2<gg a+g4.e8
+!RdC1		o1 v-2 l16 V112f8 V106fV108fV112f8 V104fV106fV108f8 V112f8. f8 V108f v+2
+!RdC2		o1 v-2 l16 V112f8 [V108fV112f8]2 V108fV106fV112f8. f8.v+2
+!RdC'		o1 V110 l2 f4 V115[f]15
+!RdC-'		o1 V117 l4. fff4
+!RdC--'		o1 V104 l32 @7fv+1fv+1fv+1fv+1fv+1fv+1fv+1fv+1fv+1fv+1fv+1fv+1fv+1@8f%201
+!SDrum1		o1 l16 V104 dv+2dv+2dv+2dv+2dv+2dv+2dv+2dv+2 dv+1dv+1dv+1dv+1d
+!SDrum2		o1 l16 V126 dv-4dv-4dv-5d
+!SD1		dv+1dv+1d
+!SD2		v-12dv+13dd
+!Tom		o4 V127 l16 fc<f>fc<f>cffc<f>fc<f
+ 
+;1-4小节
+A	L @1 V119 o2 !H&P-1a !H&P-2a
+B	L @1 V119 o2 r8 !H&P-1b !H&P-2b
+C	[r1]2 L [r1]2
+D	L V121 @5 [r4]7 o5 l16 f+d+<bf+ V123 c+g+e>c+g+c+e<g+d+2 V124 e2d+8.rd+ef+b
+E	L V124 @5 [r1]3 o4 c+2<b8.b16r4 V122
+F	L V122 !Hch-1
+G	L [r1]4
+H	L [r1]4
+K	L R0
+R0	l8 @256c4.@128c@128c4.@128c16@128c16 @256c4[@128c]2@256c4@128c16@128c16 [[@128c]3@256c]2@128c16@256c16 [@128c]2@256c[@128c]3@256c16[@128c16]3
+ 
+;5-12小节 
+A	@2 o+ [!H&P-3a]2
+B	@2 o+ [!H&P-3b]2
+C	v+8 [!Hch-2]2
+D	o6 V117 c+8!H&O' V121 o5 !H&O
+E	o5 [r2]5c2 [r2]7c2 r2d+4<b4
+F	V116 @6 !Org
+G	@7 V10 o4 l2 [g+f+ed+c+d+ef+]2
+H	@7 V10 o3 l2 [c+<bag+f+g+ab]2
+K	R1 R2
+R1	l4 @132c@8c@128c2 @128c@8c@128cl8@4c@4c l16@128c@8c8@128cl8@16c@128c[@128c8.]2@136c@132c8.@128c8.@128c[@132c8.]2@160c16@32c16
+R2	l8 @128c@8c@128c16@16c8.@136c8.@4c16@128c4 @128c@16c@128c16@8c8.@132c4l16@160c@32c@36c@16c @1168c@8c@4c@144c@8c@4c@128c@16c@128c8@4c@1168c8.@1160c8 @128c@1028c8@128c@4c8@128c@8c@128c@16c@16c@128c[@16c]2@136c@8c
+ 
+;13-24小节
+A	@1 o-2 [!H&P-1a]2 [!H&P-1a !H&P-2a]2
+B	@1 o-2 [!H&P-1b]2 [!H&P-1b !H&P-2b]2
+C	v-2 [!Hch-1]3
+D	!Pn-1 V118 !Pn-2a
+E	@7 [!RdC1!RdC2]2 V118 @5 !Pn-2b
+F	e%192 r1 @9 !SDrum1!SD1 v+0 @8 !RdC' @9 !SDrum2
+G	@4 V13 o4 g+%192 [r1]10
+H	@4 V13 o3 c+%192 [r1]9 r2. o3 @7 V14 {bg+}4
+K	[R3]7 R4 [R5R5R6:R5]4 R7R7
+R3	l16@129c[@128c]7
+R4	l16@641c[@128c]5@640c@128c
+R5	l16@129c[@128c]3@193c[@128c]3
+R6	l16@129c[@128c]3@193c[@128c]2@257c
+R7	l16@129c[@128c]3
+ 
+;25-32小节
+A	@2 o+ [!H&P-3a]2
+B	@2 o+ [!H&P-3b]2
+C	[!Hch-2]2
+D	[r1]7 r%90
+E	@7 [!RdC1:!RdC2]3[!RdC1:!RdC2]2
+F	@6 v+0 V112 !Org
+G	V12 @7 o4 !Bdn&St-1
+H	V13 !Bdn&St-1
+K	[R3]15 R8
+R8	l16@129c@128c@192c[@128c]2[@192c]2@128c
+ 
+;33-48.5小节
+A	_+1 [!H&P-3a]4 _0 r2
+B	_+1 [!H&P-3b]4 _0 r4.
+C	v+0 @7 [!RdC2:!RdC1]4 @9 !SDrum1!SD2 r8 @8 v+0 [!RdC-']6 l4. fff8 @10 !Tom r8 !RdC--'
+D	@5 V115 [!Pn-3a]4 r2
+E	@5 v+0 V115 [!Pn-3b]4 r2
+F	_+1 [!Org]2 _0 r2
+G	@5 V15 a1 [r1]6 @7 !Bdn&St-2a r2
+H	@5 V15 >d1 [r1]6 @7 !Bdn&St-2b r2
+K	R9R10 [R11R12:R11]8R13
+R9	l16 [@192c[@128c]5]2@192c[@128c]3[@129c[@128c]7:@193c[@128c]7]2@129c[@128c]3@192c[@128c]3 @129c[@128c]7@129c[@128c]2[@192c]2[@128c]3
+R10	l16 @193c[@128c]5@192c@128c@129c[@128c]3@192c[@128c]3 [@129c[@128c]7:@193c[@128c]7]2 @129c[@128c]3@192c[@128c]3 [@129c[@128c]7]2
+R11	l16 @129c@128c@1216c@128c
+R12	l16 @129c@128c@192c@128c@1153c@128c@192c@128c
+R13	l16 @129c@128c@1216c@192c r%39 @1024c16.

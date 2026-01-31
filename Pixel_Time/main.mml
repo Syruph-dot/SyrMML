@@ -1,0 +1,36 @@
+#include D:\Ment\Syrmml\header.mml
+#include D:\Ment\Syrmml\voices.mml
+
+
+#include D:\Ment\Syrmml\auxloop.mml
+
+A   o4
+C   o5
+D   >
+E   o4
+G   o4
+H   o3
+
+
+
+;ABCDEFGH [r1r1r1r1r1r1r1r1r1r1r1]8
+
+#include D:\Ment\Syrmml\drumloops.mml
+#include D:\Ment\Syrmml\P1_1.mml
+ABCDEFGHK    [
+#include D:\Ment\Syrmml\P1_2.mml
+#include D:\Ment\Syrmml\P2_1.mml
+#include D:\Ment\Syrmml\P3_1.mml
+#include D:\Ment\Syrmml\P4_1.mml
+#include D:\Ment\Syrmml\P3_2.mml
+ABCDEFGHK    ]
+
+
+
+
+
+
+
+
+
+

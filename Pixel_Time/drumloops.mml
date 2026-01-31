@@ -1,0 +1,13 @@
+R0  l4 r8[!Tom 24]3 !Tom 12 !Tom 24 !Kick 8         ;Intro
+R1  l4 [!KickHit 8 !Snare 8]13 !Kick 8 !Snare 12 !Kick 6 !Snare 8 !Kick 8 !Snare 8               ;1_1+2
+R2 [!Kick 8 !CloseHat 8]29 !Kick8 [!Snare 24]3 [!Kick 12 !Kick 24 !SnareRide 8]2                         ;2_1
+R3 [!Kick 8 !Snare 8]29 !Kick8 [!Snare 24]3 [!Kick 12 !Kick 24 !SnareRide 8]2                         ;R2
+
+R4 [!KickRide 8 !Snare 8]56 [!KickRide 8 !Snare 8 !Ride 8 !Snare 8]2 !KickRide 8 !Snare 8 !Kick 8 !Snare 8 !KickRide 8 !Snare 8 !OpenHat 8 !OpenHat 8
+
+R5 [!Ride 8 !Snare 8]32
+R6 [!KickRide 8 !Snare 8]24 [!KickRide 8 !Snare 8 !Ride 8 !Snare 8]2 !KickRide 8 !Snare 8 !Kick 8 !Snare 8 !KickRide 8 !Snare 8 !OpenHat 8 !OpenHat 8
+
+R7  [!Kick 4]16
+
+R8  [!KickHit 8 !Snare 8]16
